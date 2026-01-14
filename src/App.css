@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  padding-bottom: 123px;
+}
+
+.black-nav {
+  background : black;
+  width : 100%;
+  display : flex;
+  color : white;
+  padding : 20px;
+}
+
+div {
+  box-sizing : border-box
+}
+
+.list {
+  text-align : left;
+  padding-left : 20px;
+  padding-bottom: 10px;
+  border-bottom : 1px solid grey;
+}
+
+.modal {
+  margin-top: 20px;
+  padding: 20px;
+  background: #eee;
+  text-align: left;
+}
+
+.inputbox {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+
+  padding-top: 40px;
+  padding-bottom: 60px;
+  background: rgb(212, 212, 212);
+  border-top: 1px solid gray;
+}
+
+.input{
+  margin-right : 10px;
+}
